@@ -1,0 +1,13 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "a bakcend  project in javascripts",
+  "keywords": [],
+  "license": "ISC",
+  "author": "satya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
